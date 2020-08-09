@@ -14,6 +14,7 @@
     - Project link:
 
 # Project structure
+```
 ---core
        |---configuration.json           Defines the default test URL of the application, 
        |                                also domains (sg: Singapore, vn: Vietnam, tl: Thailand, etc,.)
@@ -36,6 +37,7 @@
 ---test-data                            Stores all test data
 ---package.json                         Defines all dependencies to use in this project
 ---wdio.conf.js                         Configs to run tests                 
+```
 
 # How to run test
 ### Run the below commands
