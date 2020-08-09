@@ -1,19 +1,23 @@
 # Introduction
-This is the automation framwork for Aspire to test the application, which is using WebdriverIO.
+This is the automation framework for Aspire to test the application, which is using WebdriverIO.
 WebdriverIO is a custom implementation for selenium's W3C webdriver API. It is written in Javascript and packaged into 'npm' and runs on Node.js.
 
 Author: Le Phuong Dy (Linkedin: https://www.linkedin.com/in/dy-le-phuong-28a63816b/) 
 
 # Prerequisites 
 1. Install Node.js from their official website Or Install Node.js using command line. Go to the terminal or command prompt & run the below commands:
+```
     - install node
     - node -v //verify node version
     - npm install npm@latest -g
+```
 
 2. Install Git bash
 
 3. Download the project from github link: https://github.com/stephenle13/aspire-test-challenge
+```
     - git clone https://github.com/stephenle13/aspire-test-challenge.git
+```
 
 # Project structure
 ```
@@ -43,4 +47,6 @@ Author: Le Phuong Dy (Linkedin: https://www.linkedin.com/in/dy-le-phuong-28a6381
 
 # How to run test
 Run the below commands
+```
     - npm run test
+```
