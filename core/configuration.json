@@ -1,0 +1,5 @@
+{
+    "DEFAULT_URL": "https://qa-test.customer-frontend.staging.aspireapp.com",
+    "DEFAULT_DOMAIN": "sg",
+    "DOMAIN_VN": "vn"
+}
